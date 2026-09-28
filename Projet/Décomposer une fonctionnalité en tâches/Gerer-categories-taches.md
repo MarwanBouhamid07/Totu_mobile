@@ -4,7 +4,7 @@
 
 | # | Libellé (action concrète) | Dépendance |
 |---|---|---|
-| T1 | Créer la table `categories` en SQL (id, nom, description) dans phpMyAdmin | Aucune |
+| T1 | Créer la table `categories` en SQL (id, nom, description) | Aucune |
 | T2 | Créer le fichier `config/db.php` (connexion PDO à MySQL) | T1 |
 | T3 | Créer le layout : `includes/header.php`, `sidebar.php`, `footer.php` (Tailwind) | Aucune |
 | T4 | Créer `categories.php` : requête `SELECT` + affichage dans un tableau | T2, T3 |
