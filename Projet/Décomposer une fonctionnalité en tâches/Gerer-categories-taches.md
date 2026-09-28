@@ -1,4 +1,4 @@
-# 2.1. Décomposer la fonctionnalité « Gérer les catégories » (PHP natif + MySQL)
+# 2.1. Décomposer la fonctionnalité « Gérer les catégories »
 
 ## Tableau
 
